@@ -90,6 +90,7 @@ Databases for storing embeddings and enabling semantic search.
 | **pgvector** | Open-source vector similarity search extension for PostgreSQL | [GitHub](https://github.com/pgvector/pgvector) |
 | **LanceDB** | Serverless vector database for AI applications with multimodal support | [Website](https://lancedb.com) · [GitHub](https://github.com/lancedb/lancedb) |
 | **Vespa** | Big data serving engine with vector search, structured data, and ML ranking | [Website](https://vespa.ai) · [GitHub](https://github.com/vespa-engine/vespa) |
+| **OpenSearch** | Open-source search and analytics suite with k-NN vector search powered by FAISS and Lucene | [Website](https://opensearch.org) · [GitHub](https://github.com/opensearch-project/OpenSearch) |
 
 ## Memory Systems
 
