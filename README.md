@@ -33,6 +33,9 @@ Whether you're building a simple RAG application or a complex multi-agent system
 - [Workflow Orchestration](#workflow-orchestration)
 - [Local LLM Tools](#local-llm-tools)
 - [Code Context Tools](#code-context-tools)
+- [AI Coding Assistants](#ai-coding-assistants)
+- [Vibe Coding Tools](#vibe-coding-tools)
+- [AI Specification Tools](#ai-specification-tools)
 
 ---
 
@@ -288,6 +291,35 @@ Tools for preparing codebases as context for LLMs.
 |------|-------------|-------|
 | **Repomix** | Pack entire repositories into a single AI-friendly file for use as LLM context | [Website](https://repomix.com) · [GitHub](https://github.com/yamadashy/repomix) |
 | **OneFileLLM** | Convert codebases, documents, and web content into a single file for LLM input | [GitHub](https://github.com/jimmc414/onefilellm) |
+
+## AI Coding Assistants
+
+AI-powered code editors, IDEs, and development tools.
+
+| Tool | Description | Links |
+|------|-------------|-------|
+| **Cursor** | AI-first code editor built for pair programming with AI | [Website](https://cursor.com) |
+| **Cline** | Autonomous AI coding agent for VS Code that can create files, run commands, and use the browser | [GitHub](https://github.com/cline/cline) |
+| **Roo Code** | AI-powered coding assistant for VS Code with multi-model support | [Website](https://roocode.com) · [GitHub](https://github.com/RooVetGit/Roo-Code) |
+
+## Vibe Coding Tools
+
+Build full applications from natural language descriptions.
+
+| Tool | Description | Links |
+|------|-------------|-------|
+| **v0** | Generate UI components and full-stack apps from text prompts | [Website](https://v0.dev) |
+| **bolt.new** | Build and deploy full-stack web apps from prompts in the browser | [Website](https://bolt.new) |
+| **Lovable** | Build production-ready apps from natural language descriptions | [Website](https://lovable.dev) |
+| **Base44** | Create apps by describing what you want in plain English | [Website](https://base44.com) |
+
+## AI Specification Tools
+
+Generate specifications and schemas using AI.
+
+| Tool | Description | Links |
+|------|-------------|-------|
+| **OpenSpec** | Generate OpenAPI specifications from natural language descriptions | [GitHub](https://github.com/Fission-AI/OpenSpec) |
 
 ---
 
