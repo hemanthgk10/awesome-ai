@@ -283,39 +283,7 @@ Tools for running LLMs locally.
 
 ## Contributing
 
-Contributions are welcome and encouraged! This list is community-driven, and we rely on contributions to keep it comprehensive and up-to-date.
-
-### How to Contribute
-
-1. **Fork the repository** - Click the "Fork" button at the top right of this page
-2. **Clone your fork** - `git clone https://github.com/YOUR_USERNAME/awesome-ai.git`
-3. **Create a branch** - `git checkout -b add-new-tool`
-4. **Make your changes** - Add your tool to the appropriate category in the README
-5. **Commit your changes** - `git commit -m "Add ToolName to Category"`
-6. **Push to your fork** - `git push origin add-new-tool`
-7. **Open a Pull Request** - Go to the original repository and click "New Pull Request"
-
-### Guidelines
-
-- **Check for duplicates** - Search the list to make sure the tool isn't already included
-- **Add to the right category** - Place tools in the most relevant section
-- **Follow the format** - Use the existing table format with Tool, Description, and Links columns
-- **Keep descriptions concise** - One sentence that explains what the tool does
-- **Include links** - Add Website and/or GitHub links where available
-- **Alphabetical order is not required** - Tools are roughly ordered by popularity/relevance
-
-### What to Add
-
-- Tools and platforms actively maintained and relevant to AI engineering
-- Both open-source and commercial tools are welcome
-- Tools should be production-ready or widely used in the community
-
-### What Not to Add
-
-- Abandoned or deprecated projects
-- Tools without documentation
-- Personal projects with minimal adoption
-- Duplicate entries or tools that are too similar to existing ones
+Read the [contribution guidelines](CONTRIBUTING.md) first. PRs that don't follow the guidelines will be closed.
 
 ## License
 
