@@ -32,6 +32,7 @@ Whether you're building a simple RAG application or a complex multi-agent system
 - [Embedding Models](#embedding-models)
 - [Workflow Orchestration](#workflow-orchestration)
 - [Local LLM Tools](#local-llm-tools)
+- [Code Context Tools](#code-context-tools)
 
 ---
 
@@ -278,6 +279,15 @@ Tools for running LLMs locally.
 | **GPT4All** | Open-source ecosystem for running LLMs locally | [Website](https://gpt4all.io) · [GitHub](https://github.com/nomic-ai/gpt4all) |
 | **Jan** | Open-source ChatGPT alternative that runs locally | [Website](https://jan.ai) · [GitHub](https://github.com/janhq/jan) |
 | **LocalAI** | Drop-in OpenAI API replacement for local inference | [Website](https://localai.io) · [GitHub](https://github.com/mudler/LocalAI) |
+
+## Code Context Tools
+
+Tools for preparing codebases as context for LLMs.
+
+| Tool | Description | Links |
+|------|-------------|-------|
+| **Repomix** | Pack entire repositories into a single AI-friendly file for use as LLM context | [Website](https://repomix.com) · [GitHub](https://github.com/yamadashy/repomix) |
+| **OneFileLLM** | Convert codebases, documents, and web content into a single file for LLM input | [GitHub](https://github.com/jimmc414/onefilellm) |
 
 ---
 
